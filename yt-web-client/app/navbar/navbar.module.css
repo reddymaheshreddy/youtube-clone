@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+.nav img {
+  height: 24px; /* same as YouTube’s actual height */
+  width: auto;  /* keeps proportions correct */
+  cursor: pointer;
+}
